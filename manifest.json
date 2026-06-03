@@ -1,7 +1,7 @@
 {
   "name": "Kálcula WC 26 Pro",
   "short_name": "Kálcula WC",
-  "start_url": "./index_wc.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#001a0f",
   "theme_color": "#00311c",
